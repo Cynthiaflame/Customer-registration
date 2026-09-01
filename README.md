@@ -29,5 +29,5 @@ Open `index.html` in a web browser.
 The desktop and mobile layout have been improved. I am still practicing responsive design and testing how the form behaves on real mobile devices.
 
 ## Project Satus
-In progress-HTML and CSS completed.
-Javascript and React are yet to be implemented.
+In progress-HTML, CSS and Javascript are completed
+React is yet to be implemented.
